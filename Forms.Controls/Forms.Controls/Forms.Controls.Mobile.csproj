@@ -35,6 +35,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="AppIcon.cs" />
     <Compile Include="Controls\DailyCalendarView.cs" />
     <Compile Include="Extensions\DrawingExtensions.cs" />
     <Compile Include="RootPage.cs" />
